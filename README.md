@@ -1,5 +1,6 @@
 ##  Imaging Technique Inspiration
-For the drawing of Edvard Munch's "The Scream", I chose Fractal Art as my inspiration. Fractal art is the use of mathematical algorithms and iterative processes to create complex and self-similar images. I thought this technique would be useful for the representation of The Scream as it helped me to create a nice distorted effect.
+For the drawing of Edvard Munch's "The Scream", I chose Fractal Art as my inspiration. Fractal art is the use of mathematical algorithms and iterative processes to create complex and self-similar images. I thought this technique would be useful for the representation of The Scream as it helped me to create a nice distorted effect.  
+
 It has three features：
 **1. Self-similarity**
 A partial enlargement of it is similar to its whole.
