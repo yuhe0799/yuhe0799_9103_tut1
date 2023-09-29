@@ -19,5 +19,6 @@ The function `julia_iter()` generates a kind of iteration which counts the numbe
 
 Project Link: [JuliaRendering](https://github.com/johnBuffer/JuliaRendering/tree/main/src "JuliaRendering")  
 
-Code Screenshot：
+Code Screenshot:  
+
 ![code](image/code.png)
