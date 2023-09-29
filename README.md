@@ -15,7 +15,9 @@ Here are two examples:
 
 ## Coding Technique Exploration
 For the implementation of fractal art I found the case of an implementation using C++ and SFML which utilises a kind of recursion where the complex C determines the shape of the image, the project defines a Julia set which is a fractal.
-The function `julia_iter()` generates a kind of iteration which counts the number of iterations. So in my project it might be possible to use this recursion to design shapes. `getStateScale()` and `getStateOffset()` functions compute the scale and offset of a given state, respectively. The user can control the movement and scaling of the fractal from the keyboard.
-Project Link: [JuliaRendering](https://github.com/johnBuffer/JuliaRendering/tree/main/src "JuliaRendering")
+The function `julia_iter()` generates a kind of iteration which counts the number of iterations. So in my project it might be possible to use this recursion to design shapes. `getStateScale()` and `getStateOffset()` functions compute the scale and offset of a given state, respectively. The user can control the movement and scaling of the fractal from the keyboard.  
+
+Project Link: [JuliaRendering](https://github.com/johnBuffer/JuliaRendering/tree/main/src "JuliaRendering")  
+
 Code Screenshot：
 ![code](image/code.png)
