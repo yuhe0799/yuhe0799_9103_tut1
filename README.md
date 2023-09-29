@@ -7,12 +7,12 @@ A partial enlargement of it is similar to its whole.
 There is still fine structure at arbitrarily small scales. As the image is enlarged, instead of losing details, you will see finer and finer details.
 **3. Extremely irregular**
 It is not a simple geometric figure, is complex and irregular.
-[![Example1](https://www.behance.net/gallery/115357197/130321 "Example1")](https://www.behance.net/gallery/115357197/130321 "Example1")
-[![Example2](https://www.behance.net/gallery/180280043/Eternity/modules/1018366951 "Example2")](https://www.behance.net/gallery/180280043/Eternity/modules/1018366951 "Example2")
+![Example1](image/example1.png)
+![Example2](image/example2.png)
 
 ## Coding Technique Exploration
 For the implementation of fractal art I found the case of an implementation using C++ and SFML which utilises a kind of recursion where the complex C determines the shape of the image, the project defines a Julia set which is a fractal.
 The function `julia_iter()` generates a kind of iteration which counts the number of iterations. So in my project it might be possible to use this recursion to design shapes. `getStateScale()` and `getStateOffset()` functions compute the scale and offset of a given state, respectively. The user can control the movement and scaling of the fractal from the keyboard.
 Project Link: [JuliaRendering](https://github.com/johnBuffer/JuliaRendering/tree/main/src "JuliaRendering")
 Code Screenshot：
-![code](/code.png)
+![code](image/code.png)
