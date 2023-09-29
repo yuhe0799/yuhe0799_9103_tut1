@@ -8,7 +8,8 @@ A partial enlargement of it is similar to its whole.
 There is still fine structure at arbitrarily small scales. As the image is enlarged, instead of losing details, you will see finer and finer details.  
 **3. Extremely irregular**
 It is not a simple geometric figure, is complex and irregular.  
-Here are two examples:
+
+Here are two examples:  
 ![Example1](image/example1.png)
 ![Example2](image/example2.png)
 
