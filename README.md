@@ -3,11 +3,11 @@ For the drawing of Edvard Munch's "The Scream", I chose Fractal Art as my inspir
 
 It has three features：
 **1. Self-similarity**
-A partial enlargement of it is similar to its whole.
+A partial enlargement of it is similar to its whole. 
 **2. Infinitely Fine**
-There is still fine structure at arbitrarily small scales. As the image is enlarged, instead of losing details, you will see finer and finer details.
+There is still fine structure at arbitrarily small scales. As the image is enlarged, instead of losing details, you will see finer and finer details. 
 **3. Extremely irregular**
-It is not a simple geometric figure, is complex and irregular.
+It is not a simple geometric figure, is complex and irregular. 
 ![Example1](image/example1.png)
 ![Example2](image/example2.png)
 
